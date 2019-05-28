@@ -1,0 +1,193 @@
+{
+    "status": {
+        "code": 200,
+        "message": "REQUEST_SUCCESS"
+    },
+    "result": {
+        "data": {
+            "type": "LandingWidget",
+            "data": {
+                "title": "Đề cử cho bạn",
+                "link": "",
+                "list": {
+                    "firstSection": [
+                        {
+                            "name": "Điện thoại ",
+                            "url_path": "thiet-bi-di-dong/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/7_14/45OobO_simg_ce2f5e_200x200_maxb.png",
+                            "square_position": 1
+                        },
+                        {
+                            "name": "Quần tây công sở",
+                            "url_path": "quan-tay/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/5_22/gqdcJz_simg_ce2f5e_200x200_maxb.png",
+                            "square_position": 2
+                        },
+                        {
+                            "name": "Áo thun",
+                            "url_path": "ao-thun-co-tay/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/2_13/BABw7w_simg_ce2f5e_200x200_maxb.jpg",
+                            "square_position": 3
+                        },
+                        {
+                            "name": "Tivi Siêu Rẻ",
+                            "url_path": "tivi/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/7_14/RmCUMI_simg_ce2f5e_200x200_maxb.png",
+                            "square_position": 4
+                        },
+                        {
+                            "name": "Đầm dạ hội",
+                            "url_path": "dam-da-hoi/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/1_3/yuF63q_simg_ce2f5e_200x200_maxb.jpg",
+                            "square_position": 5
+                        },
+                        {
+                            "name": "Túi đeo chéo cá tính",
+                            "url_path": "tui-deo-cheo-nu/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/1_6/tjFXWd_simg_ce2f5e_200x200_maxb.jpg",
+                            "square_position": 6
+                        },
+                        {
+                            "name": "Thiết bị chơi game",
+                            "url_path": "thiet-bi-choi-game/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/1_5/uMIWma_simg_ce2f5e_200x200_maxb.jpg",
+                            "square_position": 7
+                        },
+                        {
+                            "name": "Tai nghe",
+                            "url_path": "tai-nghe/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/1_5/iK93YT_simg_ce2f5e_200x200_maxb.jpg",
+                            "square_position": 8
+                        },
+                        {
+                            "name": "Giỏ quà, hộp quà",
+                            "url_path": "gio-qua-hop-qua/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "image": "https://media3.scdn.vn/img2/2017/1_5/xtjxWK_simg_ce2f5e_200x200_maxb.jpg",
+                            "square_position": 9
+                        }
+                    ],
+                    "otherSection": [
+                        {
+                            "name": "Sneaker Nam",
+                            "url_path": "giay-sneaker-the-thao-nam/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 1
+                        },
+                        {
+                            "name": "Quần kaki Hàn Quốc",
+                            "url_path": "quan-kaki-cho-nam/?q=h%C3%A0n+qu%E1%BB%91c&search_algo=old",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 2
+                        },
+                        {
+                            "name": "Áo sơ mi nữ",
+                            "url_path": "ao-so-mi-cong-so/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 3
+                        },
+                        {
+                            "name": "Túi đeo chéo nữ",
+                            "url_path": "tui-deo-cheo-nu/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 4
+                        },
+                        {
+                            "name": "Bàn học",
+                            "url_path": "ban-hoc/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 5
+                        },
+                        {
+                            "name": "Đồ bộ, pijama nữ mặc nhà",
+                            "url_path": "bo-mac-nha-nu/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 6
+                        },
+                        {
+                            "name": "Áo khoác vest, blazer nữ",
+                            "url_path": "ao-khoac-vest-blazer/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 7
+                        },
+                        {
+                            "name": "Balo nam",
+                            "url_path": "balo-nam/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 8
+                        },
+                        {
+                            "name": "Camera giám sát",
+                            "url_path": "camera-giam-sat/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 9
+                        },
+                        {
+                            "name": "Căm, niềng, vành xe máy",
+                            "url_path": "cam-nieng-vanh-xe-may/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 10
+                        },
+                        {
+                            "name": "Búp bê & phụ kiện búp bê",
+                            "url_path": "bup-be/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 11
+                        },
+                        {
+                            "name": "Cáp sạc, cáp kết nối",
+                            "url_path": "cap-sac-cap-ket-noi/",
+                            "algo": "default",
+                            "square_type": 1,
+                            "square_position": 12
+                        }
+                    ]
+                }
+            },
+            "meta_data": {
+                "page_title": "SENDO.VN - Mua hàng online đảm bảo, giá rẻ từ các Shop uy tín",
+                "heading_search": "Bạn mua gì hôm nay",
+                "source_info": {
+                    "source_block_id": "rec_cate_may_like",
+                    "source_page_id": "home"
+                }
+            }
+        },
+        "meta_data": {
+            "page_title": "SENDO.VN - Mua hàng online đảm bảo, giá rẻ từ các Shop uy tín",
+            "heading_search": "Bạn mua gì hôm nay",
+            "source_info": {
+                "source_block_id": "rec_cate_may_like",
+                "source_page_id": "home"
+            }
+        }
+    }
+}
