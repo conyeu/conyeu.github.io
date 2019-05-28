@@ -1,0 +1,35 @@
+{
+    "status": {
+        "code": 200,
+        "message": "REQUEST_SUCCESS"
+    },
+    "result": {
+        "data": [
+            {
+                "link": "/ao-2-day.htm",
+                "name": "áo 2 dây",
+                "q": "áo 2 dây",
+                "image": "https://media3.scdn.vn/img3/2019/3_11/X1jgsn_simg_3a7818_100x100_maxb.jpg",
+                "total_count": 820898,
+                "deeplink": "https://www.sendo.vn/tim-kiem/?q=%C3%A1o%202%20d%C3%A2y"
+            },
+            {
+                "link": "/gay-tu-suong.htm",
+                "name": "gậy tự sướng",
+                "q": "gậy tự sướng",
+                "image": "https://media3.scdn.vn/img2/2018/7_9/2gjw8c_simg_3a7818_100x100_maxb.jpg",
+                "total_count": 183868,
+                "deeplink": "https://www.sendo.vn/tim-kiem/?q=g%E1%BA%ADy%20t%E1%BB%B1%20s%C6%B0%E1%BB%9Bng"
+            },
+            {
+                "link": "/ao-so-mi-trang.htm",
+                "name": "áo sơ mi trắng",
+                "q": "áo sơ mi trắng",
+                "image": "https://media3.scdn.vn/img2/2018/5_30/WMq1Ml_simg_3a7818_100x100_maxb.jpg",
+                "total_count": 761343,
+                "deeplink": "https://www.sendo.vn/tim-kiem/?q=%C3%A1o%20s%C6%A1%20mi%20tr%E1%BA%AFng"
+            }
+        ],
+        "meta_data": []
+    }
+}
